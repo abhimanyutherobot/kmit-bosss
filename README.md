@@ -5,4 +5,6 @@
 
 # Supported OS
 - Windows - 10, 11
-- Ubuntu - 16 and later
+- Ubuntu - 16, 18
+
+## :loudspeaker: BOSSS for Mac - Coming soon!
